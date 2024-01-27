@@ -195,7 +195,7 @@
   "block.energizedpower.golden_fluid_pipe": "Golden Fluid Pipe",
   "item.energizedpower.golden_fluid_pipe": "Golden Fluid Pipe",
 
-  "tooltip.energizedpower.fluid_pipe.max_extraction": "Max extraction per extractor face: %s/t",
+  "tooltip.energizedpower.fluid_pipe.max_extraction": "Maksimum çıkarma limiti(her yüz için) %s/t",
   "tooltip.energizedpower.fluid_pipe.wrench_configuration.face_changed": "Yüzün bağlantı tipi (%s) şuna ayarlandı %s.",
   "tooltip.energizedpower.fluid_pipe.wrench_configuration.face_change_not_possible": "Yüzün bağlantı tipi (%s) değiştirilemez!.",
 
@@ -394,21 +394,21 @@
   "item.energizedpower.crusher": "Ezici",
   "container.energizedpower.crusher": "Ezici",
 
-  "block.energizedpower.advanced_crusher": "Advanced Crusher",
-  "item.energizedpower.advanced_crusher": "Advanced Crusher",
-  "container.energizedpower.advanced_crusher": "Advanced Crusher",
+  "block.energizedpower.advanced_crusher": "Gelişmiş Ezici",
+  "item.energizedpower.advanced_crusher": "Gelişmiş Ezici",
+  "container.energizedpower.advanced_crusher": "Gelişmiş Ezici",
 
-  "tooltip.energizedpower.advanced_crusher.txt.shift.1": "This machine consumes Water and produces Dirty Water.",
+  "tooltip.energizedpower.advanced_crusher.txt.shift.1": "Bu makine kirli su ve suyu yakıt olarak tüketir",
 
   "block.energizedpower.pulverizer": "Pulverizatör",
   "item.energizedpower.pulverizer": "Pulverizatör",
   "container.energizedpower.pulverizer": "Pulverizatör",
 
-  "block.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
-  "item.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
-  "container.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
+  "block.energizedpower.advanced_pulverizer": "Gelişmiş Pulverizatör",
+  "item.energizedpower.advanced_pulverizer": "Gelişmiş Pulverizatör",
+  "container.energizedpower.advanced_pulverizer": "Gelişmiş Pulverizatçr",
 
-  "tooltip.energizedpower.advanced_pulverizer.txt.shift.1": "This machine consumes Water and produces Dirty Water.",
+  "tooltip.energizedpower.advanced_pulverizer.txt.shift.1": "Bu makine kirli su ve suyu yakıt olarak kullanır",
 
   "block.energizedpower.sawmill": "Odun Testersi",
   "item.energizedpower.sawmill": "Odun Testeresi",
@@ -424,29 +424,29 @@
 
   "tooltip.energizedpower.metal_press.txt.shift.1": "Pres Kalıpları,Pres Kalıbı üreticisinde üretilebilir.",
 
-  "block.energizedpower.assembling_machine": "Assembling Machine",
-  "item.energizedpower.assembling_machine": "Assembling Machine",
-  "container.energizedpower.assembling_machine": "Assembling Machine",
+  "block.energizedpower.assembling_machine": "Yapım Makinası",
+  "item.energizedpower.assembling_machine": "Yapım Makinası",
+  "container.energizedpower.assembling_machine": "Yapım Makinası",
 
   "block.energizedpower.plant_growth_chamber": "Bitki Büyütme Çemberi",
   "item.energizedpower.plant_growth_chamber": "Bitki Büyütme Çemberi",
   "container.energizedpower.plant_growth_chamber": "Bitki Büyütme Çemberi",
 
   "block.energizedpower.stone_solidifier": "Stone Solidifier",
-  "item.energizedpower.stone_solidifier": "Stone Solidifier",
-  "container.energizedpower.stone_solidifier": "Stone Solidifier",
+  "item.energizedpower.stone_solidifier": "Taş Katılaştırıcı",
+  "container.energizedpower.stone_solidifier": "Taş Katılaştırıcı",
 
-  "tooltip.energizedpower.stone_solidifier.btn.up": "Next recipe",
-  "tooltip.energizedpower.stone_solidifier.btn.down": "Previous recipe",
+  "tooltip.energizedpower.stone_solidifier.btn.up": "Sonraki tarife geç",
+  "tooltip.energizedpower.stone_solidifier.btn.down": "Önceki tarife bak",
 
-  "block.energizedpower.filtration_plant": "Filtration Plant",
-  "item.energizedpower.filtration_plant": "Filtration Plant",
-  "container.energizedpower.filtration_plant": "Filtration Plant",
+  "block.energizedpower.filtration_plant": "Filtreleme Ünitesi",
+  "item.energizedpower.filtration_plant": "Filtreleme Ünitesi",
+  "container.energizedpower.filtration_plant": "Filtreleme Ünitesi",
 
-  "tooltip.energizedpower.filtration_plant.txt.shift.1": "This block requires Charcoal Filters.",
-  "tooltip.energizedpower.filtration_plant.btn.up": "Next recipe",
-  "tooltip.energizedpower.filtration_plant.btn.down": "Previous recipe",
-  "tooltip.energizedpower.filtration_plant.charcoal_filter_missing": "Charcoal Filter is missing!",
+  "tooltip.energizedpower.filtration_plant.txt.shift.1": "Bu makina el yapımı kömür gerektirir.",
+  "tooltip.energizedpower.filtration_plant.btn.up": "Sonraki tarife geç",
+  "tooltip.energizedpower.filtration_plant.btn.down": "Önceki tarife bak",
+  "tooltip.energizedpower.filtration_plant.charcoal_filter_missing": "El yapımı kömür filtesini unuttunuz!",
 
   "block.energizedpower.block_placer": "Block Yerleştirici",
   "item.energizedpower.block_placer": "Block Yerleştirici",
@@ -455,23 +455,23 @@
   "tooltip.energizedpower.block_placer.block_energy_left.txt": "Bu blok hayla koymak için %s gerektiyor.",
   "tooltip.energizedpower.block_placer.cbx.inverse_rotation": "Ters Rotasyon",
 
-  "block.energizedpower.fluid_tank_small": "Fluid Tank (Small)",
-  "item.energizedpower.fluid_tank_small": "Fluid Tank (Small)",
-  "container.energizedpower.fluid_tank_small": "Fluid Tank (Small)",
+  "block.energizedpower.fluid_tank_small": "Sıvı Tankı (Minik)",
+  "item.energizedpower.fluid_tank_small": "Sıvı Tankı (Minik)",
+  "container.energizedpower.fluid_tank_small": "Sıvı Tankı (Minik)",
 
-  "block.energizedpower.fluid_tank_medium": "Fluid Tank (Medium)",
-  "item.energizedpower.fluid_tank_medium": "Fluid Tank (Medium)",
-  "container.energizedpower.fluid_tank_medium": "Fluid Tank (Medium)",
+  "block.energizedpower.fluid_tank_medium": "Sıvı Tankı (Orta)",
+  "item.energizedpower.fluid_tank_medium": "Sıvı Tankı (Orta)",
+  "container.energizedpower.fluid_tank_medium": "Sıvı Tankı (Orta)",
 
-  "block.energizedpower.fluid_tank_large": "Fluid Tank (Large)",
-  "item.energizedpower.fluid_tank_large": "Fluid Tank (Large)",
-  "container.energizedpower.fluid_tank_large": "Fluid Tank (Large)",
+  "block.energizedpower.fluid_tank_large": Sıvı Tankı (Devasa)",
+  "item.energizedpower.fluid_tank_large": "Sıvı Tankı (Devasa)",
+  "container.energizedpower.fluid_tank_large": "Sıvı Tankı (Devasa)",
 
   "tooltip.energizedpower.fluid_tanks.cbx.ignore_nbt": "NBT'yi yoksay",
-  "tooltip.energizedpower.fluid_tanks.fluid_filter.no_filter_set": "No filter set",
-  "tooltip.energizedpower.fluid_tanks.fluid_filter.filter_set": "Filter: %s",
-  "tooltip.energizedpower.fluid_tanks.fluid_filter.txt.1": "Set the filter by left-clicking with an item which contains fluids.",
-  "tooltip.energizedpower.fluid_tanks.fluid_filter.txt.2": "Unset the filter by left-clicking without an item.",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.no_filter_set": "Hiç bir filte seçilmedi",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.filter_set": "Filtre: %s",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.txt.1": "Filteri barındırılan sıvıya sol tıklayarak etkinleştirin.",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.txt.2": "Filtresi sol tıklayarak kapatın.",
 
   "block.energizedpower.fluid_filler": "Sıvı Doldurucu",
   "item.energizedpower.fluid_filler": "Sıvı Doldurucu",
@@ -481,11 +481,11 @@
   "item.energizedpower.fluid_drainer": "Sıvı Çekici",
   "container.energizedpower.fluid_drainer": "Sıvı Çekici",
 
-  "block.energizedpower.drain": "Drain",
-  "item.energizedpower.drain": "Drain",
-  "container.energizedpower.drain": "Drain",
+  "block.energizedpower.drain": "Süzdürücü",
+  "item.energizedpower.drain": "Süzdürücü",
+  "container.energizedpower.drain": "Süzdürücü",
 
-  "tooltip.energizedpower.drain.txt.shift": "The Drain drains fluid source blocks above the block.",
+  "tooltip.energizedpower.drain.txt.shift": "Süzdürücü üzerindeki bloğu süzer.",
 
   "block.energizedpower.lightning_generator": "Yıldırım Jenaratörü",
   "item.energizedpower.lightning_generator": "Yıldırım Jenaratörü",
@@ -504,9 +504,9 @@
 
   "tooltip.energizedpower.charging_station.txt.shift.1": "Şarj istasyonu envater içindeki şarj edilebilir ürünleri şarj edebilir.",
 
-  "block.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
-  "item.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
-  "container.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
+  "block.energizedpower.crystal_growth_chamber": "Kristal Büyütme Alanı",
+  "item.energizedpower.crystal_growth_chamber": "Kristal Büyütme Alanı",
+  "container.energizedpower.crystal_growth_chamber": "Kristal Büyütme Alanı",
 
   "block.energizedpower.weather_controller": "Hava Durumu Kontrolcüsü",
   "item.energizedpower.weather_controller": "Hava Durumu Kontrolcüsü",
@@ -530,7 +530,7 @@
   "container.energizedpower.teleporter": "Işınlayıcı",
 
   "tooltip.energizedpower.teleporter.txt.shift.1": "Işınlayıcının üstünde shifte basarak ışınlanın [%s].",
-  "tooltip.energizedpower.teleporter.txt.shift.2": "Teleporteration of players can also be triggered with redstone.",
+  "tooltip.energizedpower.teleporter.txt.shift.2": "Redsttone ile ışınlayıcıyı etkinleştirebilirsin.",
 
   "tooltip.energizedpower.teleporter.use.not_enough_energy": "YETERSİZ ENERJİ!",
   "tooltip.energizedpower.teleporter.use.no_teleporter_matrix": "Işınlayıcı Matrix Hazırda yok!",
@@ -562,7 +562,7 @@
   "block.energizedpower.reinforced_advanced_machine_frame": "Dahada güçlendirilmiş ve geliştirilmiş Makina Çerçevesi",
   "item.energizedpower.reinforced_advanced_machine_frame": "Dahada güçlendirilmiş ve geliştirilmiş Makina Çerçevesi",
 
-  "fluid_type.energizedpower.dirty_water": "Dirty Water",
+  "fluid_type.energizedpower.dirty_water": "Gömüklü su / Kirli su",
 
   "tooltip.energizedpower.count_with_item.txt": "%dx %s",
 
@@ -572,7 +572,7 @@
   "tooltip.energizedpower.shift_details.txt": "[SHIFT]'e daha fazla detay için basın",
   "tooltip.energizedpower.capacity.txt": "Kapasite: %s",
   "tooltip.energizedpower.transfer_rate.txt": "Transfer değeri: %s/t",
-  "tooltip.energizedpower.tank_capacity.txt": "Tank Capacity: %s",
+  "tooltip.energizedpower.tank_capacity.txt": "Tanker kapasitesi: %s",
   "tooltip.energizedpower.not_enough_energy.txt": "YETERSİZ ENERJİ",
   "tooltip.energizedpower.ready.txt": "Hazır",
   "tooltip.energizedpower.infinite.txt": "∞Sonsuz∞",
@@ -592,13 +592,13 @@
   "tooltip.energizedpower.conveyor_belt_direction.slope.ascending": "Yükselen",
   "tooltip.energizedpower.conveyor_belt_direction.slope.descending": "Alçalan",
 
-  "tooltip.energizedpower.machine_configuration.redstone_mode.ignore": "Redstone Mode: Ignore",
-  "tooltip.energizedpower.machine_configuration.redstone_mode.high": "Redstone Mode: High",
-  "tooltip.energizedpower.machine_configuration.redstone_mode.low": "Redstone Mode: Low",
+  "tooltip.energizedpower.machine_configuration.redstone_mode.ignore": "Kızıltaş Modu:Reddet",
+  "tooltip.energizedpower.machine_configuration.redstone_mode.high": "Kızıltaş Modu:Fazla",
+  "tooltip.energizedpower.machine_configuration.redstone_mode.low": "Kızıltaş Modu:Az",
 
-  "tooltip.energizedpower.machine_configuration.comparator_mode.item": "Comparator Mode: Item",
-  "tooltip.energizedpower.machine_configuration.comparator_mode.fluid": "Comparator Mode: Fluid",
-  "tooltip.energizedpower.machine_configuration.comparator_mode.energy": "Comparator Mode: Energy",
+  "tooltip.energizedpower.machine_configuration.comparator_mode.item": "Komparatör Modu:Eşya",
+  "tooltip.energizedpower.machine_configuration.comparator_mode.fluid": "Komparatör Modu:Sıvı",
+  "tooltip.energizedpower.machine_configuration.comparator_mode.energy": "Komparatör Modu:Enerji",
 
   "itemGroup.energizedpower.tab": "Enerjilendirilmiş Güç",
 
@@ -622,14 +622,14 @@
   "emi.category.energizedpower.sawmill": "Odun Testeresi",
   "emi.category.energizedpower.compressor": "Kompresör",
   "emi.category.energizedpower.metal_press": "Metal Pres",
-  "emi.category.energizedpower.assembling_machine": "Assembling Machine",
+  "emi.category.energizedpower.assembling_machine": "Yapım Makinası",
   "emi.category.energizedpower.plant_growth_chamber": "Bitki Büyütme Çemberi",
   "emi.category.energizedpower.plant_growth_chamber_fertilizer": "Büyütme Çemberi (Gübreleyici)",
   "emi.category.energizedpower.energizer": "Enerjileyici",
-  "emi.category.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
+  "emi.category.energizedpower.crystal_growth_chamber": "Kristal Büyütme Alanı",
   "emi.category.energizedpower.press_mold_maker": "Pres Kalıbı Yapar",
-  "emi.category.energizedpower.stone_solidifier": "Stone Solidifier",
-  "emi.category.energizedpower.filtration_plant": "Filtration Plant",
+  "emi.category.energizedpower.stone_solidifier": "Taş Katılaştırıcı",
+  "emi.category.energizedpower.filtration_plant": "Filtereleme Ünitesi",
   "emi.category.energizedpower.dispenser": "Bırakıcı",
   "emi.category.energizedpower.in_world_crafting": "Cihan içi yaratma",
 
@@ -689,8 +689,8 @@
   "advancements.energizedpower.pulverizer.title": "Pulverizörleme!",
   "advancements.energizedpower.pulverizer.description": "Madenleri verimlemek için onları pulverizörle.",
 
-  "advancements.energizedpower.charcoal_filter.title": "Charcoal Filter",
-  "advancements.energizedpower.charcoal_filter.description": "Craft a charcoal filter.",
+  "advancements.energizedpower.charcoal_filter.title": "El Yapımı Kömür Filtresi",
+  "advancements.energizedpower.charcoal_filter.description": "Bir el yapımı kömür filteresi yap (hani varya şu kömürün odundan yapılanı o).",
 
   "advancements.energizedpower.sawmill.title": "Odun Kesmek!",
   "advancements.energizedpower.sawmill.description": "Motorlu Testere ile ağacı kes{Doğa'ya dikkat et!}.",
@@ -701,14 +701,14 @@
   "advancements.energizedpower.metal_press.title": "Metal Pres",
   "advancements.energizedpower.metal_press.description": "Metal Oluşturur.",
 
-  "advancements.energizedpower.assembling_machine.title": "Assembling Machine",
-  "advancements.energizedpower.assembling_machine.description": "Craft electronic components in the Assembling Machine.",
+  "advancements.energizedpower.assembling_machine.title": "Yapım Makinası",
+  "advancements.energizedpower.assembling_machine.description": "Yapım Makinasında devre elemanı üret.",
 
   "advancements.energizedpower.plant_growth_chamber.title": "Hızlı bitki büyümesi",
   "advancements.energizedpower.plant_growth_chamber.description": "Bitki Büyütme Çemberi ile bitkilerin büyüme hızını arttır.",
 
-  "advancements.energizedpower.stone_solidifier.title": "Stone Solidifier",
-  "advancements.energizedpower.stone_solidifier.description": "Create stone blocks from Water and Lava.",
+  "advancements.energizedpower.stone_solidifier.title": "Taş mı sertleştirdin?",
+  "advancements.energizedpower.stone_solidifier.description": "Su ver Lav'dan taş elde et.",
 
   "advancements.energizedpower.block_placer.title": "Bloğu yerleştir",
   "advancements.energizedpower.block_placer.description": "Bloklar otomatik yerleştirilir.",
@@ -719,8 +719,8 @@
   "advancements.energizedpower.fluid_drainer.title": "Sıvı Eşyasını Boşalt",
   "advancements.energizedpower.fluid_drainer.description": "Eşyaları sıvıdan arındır.",
 
-  "advancements.energizedpower.drain.title": "The Drain",
-  "advancements.energizedpower.drain.description": "Drain fluids source blocks.",
+  "advancements.energizedpower.drain.title": "Süzgeççi",
+  "advancements.energizedpower.drain.description": "Süzgeci kullandın!.",
 
   "advancements.energizedpower.basic_machine_frame.title": "Makinaların Atası",
   "advancements.energizedpower.basic_machine_frame.description": "Bu tüm basit makineler için yaratma masasıdır.",
@@ -773,8 +773,8 @@
   "advancements.energizedpower.charging_station.title": "Kablosuz Şarj",
   "advancements.energizedpower.charging_station.description": "Teknoloji o kadar gelişti ha?.",
 
-  "advancements.energizedpower.crystal_growth_chamber.title": "Crystal growth",
-  "advancements.energizedpower.crystal_growth_chamber.description": "Grow crystals in the Crystal Growth Chamber.",
+  "advancements.energizedpower.crystal_growth_chamber.title": "Kristal Büyütme",
+  "advancements.energizedpower.crystal_growth_chamber.description": "Adı üzerinde,alanda kristal büyüt!.",
 
   "advancements.energizedpower.energized_crystal_matrix.title": "Enejili Matrix Kristali",
   "advancements.energizedpower.energized_crystal_matrix.description": "Bazı Gelişmiş makinelerde stabilizer görevi görür.",
@@ -803,8 +803,8 @@
   "advancements.energizedpower.thermal_generator.title": "Sıcak sıvı tarfından",
   "advancements.energizedpower.thermal_generator.description": "Amam dikkat,bir yerini yakma!.",
 
-  "advancements.energizedpower.filtration_plant.title": "Fluid filtration",
-  "advancements.energizedpower.filtration_plant.description": "Craft a Filtration Plant.",
+  "advancements.energizedpower.filtration_plant.title": "Sıvı Filtreleme",
+  "advancements.energizedpower.filtration_plant.description": "Filtreleme Ünitesi oluştur.",
 
   "advancements.energizedpower.powered_lamp.title": "Elektrik Ampulleri",
   "advancements.energizedpower.powered_lamp.description": "Edison olmuşsun bakıyorum!.",
@@ -836,17 +836,17 @@
   "advancements.energizedpower.iron_fluid_pipe.title": "Sıvı Taşımacılığı",
   "advancements.energizedpower.iron_fluid_pipe.description": "Transport fluids with iron fluid pipes.",
 
-  "advancements.energizedpower.golden_fluid_pipe.title": "Fast Fluid Transport",
-  "advancements.energizedpower.golden_fluid_pipe.description": "Transport fluids faster with golden fluid pipes.",
+  "advancements.energizedpower.golden_fluid_pipe.title": "Hızlı Sıvı Taşımacılığı",
+  "advancements.energizedpower.golden_fluid_pipe.description": "Altın Borularla hızlı sıvı taşı.",
 
-  "advancements.energizedpower.fluid_tank_small.title": "Simple Fluid Storage",
-  "advancements.energizedpower.fluid_tank_small.description": "Store fluids in a small Fluid Tank.",
+  "advancements.energizedpower.fluid_tank_small.title": "Basit Sıvı Depolama",
+  "advancements.energizedpower.fluid_tank_small.description": "Küçük bir tankerde sıvı depola.",
 
-  "advancements.energizedpower.fluid_tank_medium.title": "Better Fluid Storage",
-  "advancements.energizedpower.fluid_tank_medium.description": "Store fluids in a medium Fluid Tank.",
+  "advancements.energizedpower.fluid_tank_medium.title": "DAHA İYİ sıvı depolama",
+  "advancements.energizedpower.fluid_tank_medium.description": "Ortalama bir sıvı tankerinde sıvı depola.",
 
-  "advancements.energizedpower.fluid_tank_large.title": "Large Fluid Storage",
-  "advancements.energizedpower.fluid_tank_large.description": "Store fluids in a large Fluid Tank.",
+  "advancements.energizedpower.fluid_tank_large.title": "Büyük sıvı depolaması",
+  "advancements.energizedpower.fluid_tank_large.description": "Devasa bir sıvı tankında sıvı depola.",
 
   "advancements.energizedpower.copper_cable.title": "Enerji Taşımacılığı",
   "advancements.energizedpower.copper_cable.description": "Kablo ile enerji taşı.",
@@ -938,11 +938,11 @@
   "advancements.energizedpower.energizer.title": "Verimli Enerjileme",
   "advancements.energizedpower.energizer.description": "Bakır Külçelerini bu makine daha hızlı enerjiler.",
 
-  "advancements.energizedpower.advanced_crusher.title": "Faster crusher",
-  "advancements.energizedpower.advanced_crusher.description": "Craft an Advanced Crusher.",
+  "advancements.energizedpower.advanced_crusher.title": "Hızlı Ezme",
+  "advancements.energizedpower.advanced_crusher.description": "Gelişmiş Ezici yap.",
 
-  "advancements.energizedpower.advanced_pulverizer.title": "Faster pulverizer",
-  "advancements.energizedpower.advanced_pulverizer.description": "Craft an Advanced Pulverizer.",
+  "advancements.energizedpower.advanced_pulverizer.title": "Hızlı Pulverizörleme",
+  "advancements.energizedpower.advanced_pulverizer.description": "Gelişmiş Pulverizör yap.",
 
   "advancements.energizedpower.lightning_generator.title": "Bulut Gücü!",
   "advancements.energizedpower.lightning_generator.description": "Şimşekten Enerji üretmek?.",
@@ -1038,9 +1038,9 @@
 
   "book.energizedpower.page.ore_dusts": "Maden tozları külçeye dönüştürelebilir.",
 
-  "book.energizedpower.page.charcoal_dust": "Charcoal Dust can be used to craft Charcoal Filters.",
+  "book.energizedpower.page.charcoal_dust": "EL yapımı kömür kendi filtelerinde kullanılabilir.",
 
-  "book.energizedpower.page.charcoal_filter": "Charcoal Filters are used to filter Dirty Water in the Filtration Plant.",
+  "book.energizedpower.page.charcoal_filter": "Kirli suları filtreleme ünitesindeki el yapımı kömür filtreler.",
 
   "book.energizedpower.page.plates.1": "Plakalar birçok makinada malzeme olarak kullanılır. Plakalar çekiçle veya kompresörle üretilebilir .",
   "book.energizedpower.page.plates.2": "Enerjili plakalar SADECE kompresdörde üretilerbilir.",
@@ -1067,7 +1067,7 @@
 
   "book.energizedpower.page.cutters": "Kesici Tel Üretir.",
 
-  "book.energizedpower.page.wrench": "İngiliz Anahtarı blokları configüre eder.",
+  "book.energizedpower.page.wrench": "İngiliz Anahtarı blokları konfigüre eder.",
 
 
   "book.energizedpower.page.chapter.workbenches.title": "Çalışma Masaları",
@@ -1079,7 +1079,7 @@
   "book.energizedpower.page.chapter.energy_items.title": "Enerji Eşyaları",
   "book.energizedpower.page.chapter.energy_items": "Enerji Üreten,harcayan,depolayan ürünler.",
 
-  "book.energizedpower.page.inventory_coal_engine.1": "Buı eşya envanterine enerji dağıtabilir.",
+  "book.energizedpower.page.inventory_coal_engine.1": "Bu eşya envanterine enerji dağıtabilir.",
   "book.energizedpower.page.inventory_coal_engine.2": "Havaya tıklayarak aktive olabilir.",
   "book.energizedpower.page.inventory_coal_engine.3": "Yakıt Otomatik olarak envanterden alınacak.",
   "book.energizedpower.page.inventory_coal_engine.4": " [Hotbar Dahil]",
@@ -1176,10 +1176,10 @@
   "book.energizedpower.page.auto_crafters.4": "Gelişmiş Oto Oluşturucu farklı tarifleri destekler.",
 
   "book.energizedpower.page.crushers.1": "Ezici taş gibi blokları ezebilir.",
-  "book.energizedpower.page.crushers.2": "The advanced version of the Crusher consumes Water and produces Dirty Water.",
+  "book.energizedpower.page.crushers.2": "Gelişmiş versiyon gömük ve su ile çalışır.",
 
   "book.energizedpower.page.pulverizers.1": "Pulverizör Maden Tozlarını külçeye dönüştürebilir.",
-  "book.energizedpower.page.pulverizers.2": "The advanced version of the Pulverizer consumes Water and produces Dirty Water.",
+  "book.energizedpower.page.pulverizers.2": "Gelişmiş Versiyon gömük ve su ile çalışır.",
 
   "book.energizedpower.page.sawmill.1": "Testere blokları ve eşyaları kesebilir",
   "book.energizedpower.page.sawmill.2": "Yakıt olarak kullanılabilecek talaş bloklarına dönüştürülebilen talaş üretilecek.",
@@ -1191,9 +1191,9 @@
   "book.energizedpower.page.metal_press.3": "Pres Kalıplar üstten takılabilir ve çıkarılabilir.",
   "book.energizedpower.page.metal_press.4": "Girişler diğer tüm taraflara eklenebilir ve çıkışlar diğer tüm taraflardan çıkarılabilir.",
 
-  "book.energizedpower.page.assembling_machine.1": "The Assembling Machine creates electronic components (e.g. circuits).",
-  "book.energizedpower.page.assembling_machine.2": "Outputs can be extracted from all sides.",
-  "book.energizedpower.page.assembling_machine.3": "Inputs can be inserted from all sides (Top/Bottom: All inputs slots, Front: Bottom slot, Back: Top slot, Left: Left slot, Right: Right slot).",
+  "book.energizedpower.page.assembling_machine.1": "Yapım makinesi devre elemanları yapar.",
+  "book.energizedpower.page.assembling_machine.2": "Çıkışlar tüm yüzlerden çıkarılabilir.",
+  "book.energizedpower.page.assembling_machine.3": "Girişler sadece bu slotlara konulur (Aşağı ve Yukarı: Tüm giriş slotları,Ön:Alt Slot,Arka:Aşağı Slot,Sol: Sol slot, Sağ: Sağ slot).",
 
   "book.energizedpower.page.plant_growth_chamber.1": "Bitki Büyüme Odası bitki büyümesini ve verimini artırabilir.",
   "book.energizedpower.page.plant_growth_chamber.2": "Sağ giriş yuvası tohum yuvasıdır.",
@@ -1203,11 +1203,11 @@
   "book.energizedpower.page.plant_growth_chamber.6": "Eğer bir gübre kullanmak istiyorsanız, önce gübre yerleştirilmelidir.",
   "book.energizedpower.page.plant_growth_chamber.7": "Bu blokları otomatikleştirmek isterseniz, verimlerin rastgele olduğunu aklınızda bulundurmanız gerekir.",
 
-  "book.energizedpower.page.stone_solidifier.1": "The Stone Solidifier produces Stone blocks from Water and Lava.",
-  "book.energizedpower.page.stone_solidifier.2": "Fluids must be inserted with a pipe.",
+  "book.energizedpower.page.stone_solidifier.1": "Taş katılaştırıcı su lavdan taş üretir.",
+  "book.energizedpower.page.stone_solidifier.2": "Sıvılar boru ile taşınmalıdır.",
 
-  "book.energizedpower.page.filtration_plant.1": "The Filtration Plant can filter raw ores from Dirty Water.",
-  "book.energizedpower.page.filtration_plant.2": "Charcoal Filters can be inserted from every block face. Outputs can be extracted from block face.",
+  "book.energizedpower.page.filtration_plant.1": "Filtereleme Ünitesi sadece kirli sudaki madenleri ayıklar.",
+  "book.energizedpower.page.filtration_plant.2": "El yapımı kömürler her her yüze yerleştirelebilir. Çıkışlar arka yüzden olmalıdır.",
 
   "book.energizedpower.page.block_placer.1": "Blok Yerleştirici tüm blokları yerleştirebilir (Kapılar ve tohumlar dahil).",
   "book.energizedpower.page.block_placer.2": "Bloklar yalnızca mümkünse yerleştirilecektir.",
@@ -1219,9 +1219,9 @@
 
   "book.energizedpower.page.charging_station": "Şarj İstasyonu öğeleri kablosuz olarak şarj edebilir.",
 
-  "book.energizedpower.page.crystal_growth_chamber": "The Crystal Growth Chamber can be used to grow crystals like amethysts.",
+  "book.energizedpower.page.crystal_growth_chamber": "Kristal büyütme alanı ametist gibi kristal üretir.",
 
-  "book.energizedpower.page.energizer": "Energizer eşyalara çok verimli bir şekilde enerji verebilir.",
+  "book.energizedpower.page.energizer": "Enerjici eşyalara çok verimli bir şekilde enerji verebilir.",
 
   "book.energizedpower.page.weather_controller": "Hava Durumu Denetleyicisi hava durumunu geçici olarak değiştirebilir. Bunu yapmak için enerji gerektirir.",
 
@@ -1235,7 +1235,7 @@
   "book.energizedpower.page.teleporter.2": "Işınlayıcı ışınlanmaya hazırsa bir kırmızı taş sinyali verir.",
 
 
-  "book.energizedpower.page.chapter.fluid_blocks.title": "Fluid Blocks",
+  "book.energizedpower.page.chapter.fluid_blocks.title": "Sıvı Blokları",
   "book.energizedpower.page.chapter.fluid_blocks": "Akışkanları depolayabilen ve aktarabilen bloklar.",
 
   "book.energizedpower.page.fluid_pipes.1": "Akışkan boruları akışkanları transfer edebilir.",
@@ -1243,11 +1243,11 @@
   "book.energizedpower.page.fluid_pipes.3": "Tek bir akışkan borusu bloğu, birden fazla taraf çıkarma olarak yapılandırılmış olsa bile aynı anda yalnızca bir akışkan türünü çıkarabilir.",
   "book.energizedpower.page.fluid_pipes.4": "There are two tiers of fluid pipes: Iron and Golden.",
 
-  "book.energizedpower.page.fluid_tanks.1": "Fluid tanks can store fluids.",
-  "book.energizedpower.page.fluid_tanks.2": "There are three tiers of fluid tanks: Small, Medium, and Large.",
+  "book.energizedpower.page.fluid_tanks.1": "Sıvı tankları sadece sıvı taşıyabilir.",
+  "book.energizedpower.page.fluid_tanks.2": "3 tank tipi vardır:Minik,Orta ve Devasa.",
 
-  "book.energizedpower.page.drain.1": "The Drain drains fluid source blocks above the block.",
-  "book.energizedpower.page.drain.2": "On the Fabric version the Drain can extract fluids from Cauldrons.",
+  "book.energizedpower.page.drain.1": "Süzgeçler üst bloğu süzer.",
+  "book.energizedpower.page.drain.2": "Fabric versiyonunda kazanlardan da sıvı çıkışı yapılır.",
 
 
   "book.energizedpower.page.chapter.item_transportation.title": "Ürün Taşımacılığı",
@@ -1284,25 +1284,25 @@
   "book.energizedpower.page.item_conveyor_belt_merger": "Öğe Konveyör Bandı Birleştirici, bağlı giriş konveyör bantlarından öğeleri eşit olarak alır (Büyük bir kareye bakmalı ve yükselmemelidir) ve bunları çıkış konveyör bandına koyar.",
 
 
-  "book.energizedpower.page.chapter.fluids.title": "Fluids",
-  "book.energizedpower.page.chapter.fluids": "Fluids added in Energized Power",
+  "book.energizedpower.page.chapter.fluids.title": "Sıvılar",
+  "book.energizedpower.page.chapter.fluids": "Sıvılar bu moda dahildir",
 
-  "book.energizedpower.page.dirty_water.1": "Dirty Water is produced as a by-product in some machines which consume Water.",
-  "book.energizedpower.page.dirty_water.2": "Dirty Water can be cleaned in the Filtration Plant.",
+  "book.energizedpower.page.dirty_water.1": "Gömük belli başlı makinelerle çıkartılabilir.",
+  "book.energizedpower.page.dirty_water.2": "Gömük filteleme ünitesi ile filtrelenebilir.",
 
 
-  "book.energizedpower.page.chapter.machine_configuration.title": "Configuration",
-  "book.energizedpower.page.chapter.machine_configuration": "Configuration of machines",
+  "book.energizedpower.page.chapter.machine_configuration.title": "Konfigürasyon",
+  "book.energizedpower.page.chapter.machine_configuration": "Makinaların Konfigüre edilmesi",
 
-  "book.energizedpower.page.redstone_mode_configuration.1": "There are 3 redstone modes:",
-  "book.energizedpower.page.redstone_mode_configuration.2": "Ignore: The machine is always active",
-  "book.energizedpower.page.redstone_mode_configuration.3": "High: The machine is only active if a redstone signal of strength 1 or higher is present",
-  "book.energizedpower.page.redstone_mode_configuration.4": "Low: The machine is only active if no redstone signal is present",
+  "book.energizedpower.page.redstone_mode_configuration.1": "3 Kızıltaş modu vardır:",
+  "book.energizedpower.page.redstone_mode_configuration.2": "Reddet:Makina hiç bir şey kabul etmez",
+  "book.energizedpower.page.redstone_mode_configuration.3": "Yüksek:1 veya kızıltaş dokunmuşsa aktiftir",
+  "book.energizedpower.page.redstone_mode_configuration.4": "Düşük:Etrafta makina yokken çalışır ",
 
-  "book.energizedpower.page.comparator_mode_configuration.1": "There are 3 comparator modes:",
-  "book.energizedpower.page.comparator_mode_configuration.2": "Item: The comparator output is calculated based on how full the inventory of the machine is",
-  "book.energizedpower.page.comparator_mode_configuration.3": "Fluid: The comparator output is calculated based on how full the tank(s) of the machines is/are",
-  "book.energizedpower.page.comparator_mode_configuration.4": "Energy: The comparator output is calculated based on how much energy is stored in the machine",
+  "book.energizedpower.page.comparator_mode_configuration.1": "3 Komparatör Modu Vardır:",
+  "book.energizedpower.page.comparator_mode_configuration.2": "Eşya: Makinanın envanterine göre hesaplanır",
+  "book.energizedpower.page.comparator_mode_configuration.3": "Sıvı: Komparatör sıvı tankının ne kadar dolu olduğunu hesaplar",
+  "book.energizedpower.page.comparator_mode_configuration.4": "Enerji: Makinada ne kadar enerji olduğunu ölçer",
 
 
   "book.energizedpower.page.chapter.entities.title": "Varlıklar",
